@@ -1,1 +1,1 @@
-c*h is always encouraged / c*h freely
+c+h is always encouraged / c+h freely
